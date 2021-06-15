@@ -1,0 +1,73 @@
+========================================
+Grupo 1 - 3 temas - 5 estudiantes.
+ Temas: [Agile in the large: SAFe vs LeSS, Joint Application Development (JAD) Model, Open Unified Process (OpenUP)]
+ 1088966 - ACEVEDO SANCHEZ ELIAS JOSE 
+ 1096361 - CABALLERO AMAURY MIGUEL
+ 1055808 - CUEVAS MATOS EMMANUEL
+ 1067087 - MELENDEZ NUÑEZ ERNESTO JOSE
+ 1076992 - CUADRADO PÉREZ JEAN MICHAEL
+========================================
+Grupo 2 - 2 temas - 4 estudiantes.
+ Temas: [XP, Workspace design]
+ 1078057 - MENDOZA PEÑA JEAN CARLOS
+ 1094675 - UREÑA BISONO MIGUEL EDUARDO
+ 1090287 - GARCIA GARCIA CLAUDIO
+ 1069118 - CONTRERAS JIMENEZ THAIS
+========================================
+Grupo 3 - 3 temas - 5 estudiantes.
+ Temas: [V-Shaped Model, Scrum, Functional Programming]
+ 1094998 - ROSA REYES LUIS MIGUEL
+ 1092830 - DIAZ POLANCO YLEN
+ 1076915 - GURIDI RODRÍGUEZ ANTONIO CARLOS
+ 1093865 - MARTÍNEZ FERREIRA ALBERT STEVEN
+ 1088563 - VELOZ ARENCIBIA OSCAR
+========================================
+Grupo 4 - 2 temas - 4 estudiantes.
+ Temas: [Agile (Basic or "Pure"), Big-Bang Model]
+ 1098839 - RODRIGUEZ TAVERAS PORFIRIO JESUS
+ 1077885 - MORILLO FIGUEREO ABRAHAN
+ 1095589 - GALAN SOTO MARIO ALEJANDRO
+ 1094826 - PÁEZ SÁNCHEZ ALEJANDRO
+========================================
+Grupo 5 - 2 temas - 4 estudiantes.
+ Temas: [Rational Unified Process (RUP), Dynamic System Development Model (DSDM)]
+ 1093566 - PEREZ SANTANA EMILY ESTHER
+ 1085531 - GRULLON OLIVERO AXEL
+ 1088820 - CAAMAÑO MARTINEZ JUSTIN ERNESTO
+ 1097861 - RAMÍREZ TEJADA FELIPE SEBASTIAN
+========================================
+Grupo 6 - 2 temas - 4 estudiantes.
+ Temas: [Rapid Application Development (RAD) Methodology, Iterative Model]
+ 1075235 - DIAZ PEREZ CESAR AUGUSTO
+ 1095352 - UREÑA VARGAS ENMANUEL
+ 1093756 - GUZMAN GOMEZ ANGEL DANIEL
+ 1093760 - DÍAZ MARZÁN JONATHAN ALBERTO
+========================================
+Grupo 7 - 2 temas - 4 estudiantes.
+ Temas: [TDD, Waterfall Model]
+ 1077703 - TRINIDAD PERALTA LEISCAR NOE
+ 1088537 - HENRIQUEZ COSME YAMILKA
+ 1087298 - SANCHEZ BELTRE LETICIA
+ 1097821 - JIMÉNEZ BERNABEL MIGUEL ERNESTO
+========================================
+Grupo 8 - 2 temas - 4 estudiantes.
+ Temas: [Lean Methodology, Remote Working and Studying]
+ 1089624 - PUCHEU PEGUERO MARIO ERNESTO
+ 1096046 - CABRERA RAMIREZ FERNANDO JOSE
+ 1095500 - GARRIDO LEÓN CARLOS DAVID
+ 1085970 - LORA BELTRE JORGE LUIS
+========================================
+Grupo 9 - 2 temas - 4 estudiantes.
+ Temas: [Prototype Model, OO Programming]
+ 1086001 - VALENCIA GONZALEZ SALMA ELIANA
+ 1092636 - GARCÍA-DUBUS MEJÍA SAMUEL ALEJANDRO
+ 1096089 - GRASSALS MERCEDES JEFFREY
+ 1088539 - LOPEZ BETANCES FERNANDO ARTURO
+========================================
+Grupo 10 - 3 temas - 5 estudiantes.
+ Temas: [Distributed Version Control System, Domain Driven Design, Spiral Model]
+ 109533 - BELLO POLANCO JUAN LUIS
+ 1073351 - GUZMAN MARTINEZ JOSE ALEJANDRO
+ 1065816 - PACHECO LUCIANO JACK DAMIOLIX
+ 1088109 - MELO ALMANZAR RAFAEL EDUARDO
+ 1092585 - GARCIA ALMONTE SIMON DAVID
